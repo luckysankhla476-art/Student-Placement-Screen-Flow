@@ -1,7 +1,7 @@
 # Salesforce Placement Management System:
 A Salesforce-based Placement Management System developed primarily using Screen Flow to create an interactive and user-friendly placement experience.
 
-# ## Quick Links
+# Quick Links
 
 * 🎥 [Watch Project Demo Video](https:)
 
