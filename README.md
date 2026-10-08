@@ -3,7 +3,7 @@ A Salesforce-based Placement Management System developed primarily using Screen 
 
 ## Quick Links
 
-* 🎥 [Watch Screen Flow Demo Video](https://drive.google.com/file/d/16NPMepRjl_eoSFv-V_ioJfLlEpNgNBF3/view?usp=sharing))
+* 🎥 [Watch Screen Flow Demo Video](https://drive.google.com/file/d/16NPMepRjl_eoSFv-V_ioJfLlEpNgNBF3/view?usp=sharing)
 
 ## Student Module:
 The Student module allows students to register and log in using their Name, Roll Number, and Access Key. After login, students can access their personalized placement information, including Job Openings, Job Applications, Interviews, and Student Profile details.
